@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+test-results/
+playwright-report/
+*.log
+.env*
+# Third-party skill clone with its own .git; not part of this project (see docs/ENVIRONMENT_AUDIT.md §5)
+.agents/skills/bufatechno-webgamedev/
